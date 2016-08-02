@@ -69,7 +69,11 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
+  background-image: url('/img/seattle.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  /*background: #18BC9C;*/
   color: white;
 }
 header .container {
