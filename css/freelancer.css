@@ -75,6 +75,7 @@ header {
   background-position: center center;
   /*background: #18BC9C;*/
   color: white;
+  text-shadow: 1px 1px 1px black;
 }
 header .container {
   padding-top: 100px;
