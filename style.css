@@ -15,6 +15,18 @@
 	display: inline-block;
 	text-align: center;
 }
-#abouthr {
+.darkhr {
+	border-color: inherit;
+}
+section#portfolio {
+	background-color: #FF9966;
+}
+#portfolio {
+	color: #003366;
+}
+.bluehr {
 	border-color: #003366;
 }
+/*a.email {
+	color: white;
+}*/
