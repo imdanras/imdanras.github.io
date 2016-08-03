@@ -1,13 +1,12 @@
 .about {
 	width: 60%;
 }
-
 .name {
 	text-align: center;
 }
 
 .dan {
-	box-shadow: 1px 1px 1px black;
+	box-shadow: 2px 2px 2px black;
 	border: 5px solid white;
 	border-radius: 50%;
 	height: 150px;
@@ -27,6 +26,3 @@ section#portfolio {
 .bluehr {
 	border-color: #003366;
 }
-/*a.email {
-	color: white;
-}*/
