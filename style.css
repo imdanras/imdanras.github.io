@@ -26,3 +26,9 @@ section#portfolio {
 .bluehr {
 	border-color: #003366;
 }
+.resume {
+	/*display: inline-block;*/
+}
+.parks {
+	background-image: url('img/portfolio/nationalparkscreate.png');
+}
