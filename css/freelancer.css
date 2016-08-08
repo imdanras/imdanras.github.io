@@ -79,7 +79,7 @@ header {
   text-shadow: 2px 2px 2px black;
 }
 header .container {
-  padding-top: 50px;
+  /*padding-top: 50px;*/
   padding-bottom: 50px;
 }
 header img {
