@@ -35,3 +35,10 @@ section#portfolio {
 /*#dan-container {
 	padding-top: 10px;
 }*/
+
+.modal {
+	top: 50px;
+	right: 50px;
+	bottom: 0px;
+	left:50px;
+}
