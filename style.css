@@ -42,3 +42,9 @@ section#portfolio {
 	bottom: 0px;
 	left:50px;
 }
+
+@media (max-width: 767px) {
+	#dan-container {
+	bottom: 0px;
+}
+}

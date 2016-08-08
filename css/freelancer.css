@@ -200,9 +200,6 @@ section.success {
   section.first {
     padding-top: 75px;
   }
-  #dan-container {
-    bottom: 0px;
-  }
 }
 #portfolio .portfolio-item {
   margin: 0 0 15px;
