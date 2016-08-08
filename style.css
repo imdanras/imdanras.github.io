@@ -33,7 +33,7 @@ section#portfolio {
 	background-image: url('img/portfolio/nationalparkscreate.png');
 }
 #dan-container {
-	position-bottom: 100px;
+	bottom: 100px;
 }
 
 .modal {
