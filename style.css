@@ -32,9 +32,9 @@ section#portfolio {
 .parks {
 	background-image: url('img/portfolio/nationalparkscreate.png');
 }
-/*#dan-container {
-	padding-top: 10px;
-}*/
+#dan-container {
+	position-bottom: 100px;
+}
 
 .modal {
 	top: 50px;
