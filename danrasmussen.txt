@@ -1,45 +1,48 @@
 dan.r.rasmussen@gmail.com                                                                                               	 		651.216.4339
 
 Daniel Robert Rasmussen
-reLevant Skills
+Relevant Skills
 
 HTML
 CSS
 Javascript 
+
 Node.js
 Ruby
 Rails
 
+Who I am
+
+As a Web Developer with a background in business, I am committed to increasing efficiency and ease of use to both improve productivity and increase people's quality of life.  I'm a midwesterner at heart who's living in and loving Seattle. The weather's far better out here.
 work experience
+
+General Assembly, Seattle, Washington								May 2016 - Present
+Web Development Immersive
+Finished five projects using multiple stacks while coding 70+ hours per week.
 
 Soundview Medical Supply, Seattle, Washington							March 2013 - Present
 Customer Service Representative
-▪Maintain monthly customer contact via phone, ensure their monthly Medicaid orders are correct, and continually monitor of customer satisfaction
 
 Eddie Bauer, Inc., Seattle, Washington							     August 2011 – March 2013
 Sales Associate/Special Projects
-▪ Floor representative helping customers coordinate casual and climbing outfits, selling credit and rewards cards, and maintaining store appearance as well as providing occasional stockroom assistance. Additionally sent daily CSAT comments to regional directors, compile and send out weekly website technical problems, and assist with additional projects as assigned by Call Center Head.
 
 Infinity Client Acquisitions, Inc., Saint Paul, Minnesota					    September 2010 - July 2011
 Field Representative 
-▪ Field Representative in Best Buy and Sam’s Club retailers advocating benefits of DirecTv television service.  Face-to-face sales and on-the-spot sales pitch-tailoring required.
 
 State Farm Insurance, Shoreview, Minnesota 					         February 2010 - September 2010
 Business Development 
-▪ Sales, working with hot and cold leads obtained from supervisor, offering quotes for many different insurance policies.
 
 Medstrom Surgical, Inc., Shoreview, Minnesota 					             October 2009 - February 2010
 Sales Representative 
-▪ Independent salesman selling adipose relocation devices to plastic surgeons.  Scheduled appointments, attended sales meetings, and provided quality assurance in operating room.
 
 St. Paul Radiology, St. Paul, Minnesota 							       July 2006 - October 2009
 Data Analyst 
-▪ Compiled detailed daily, weekly, monthly, and annual CT, MRI, X-Ray, Ultrasound, Mammography, and Bone Densitometry reports for marketing assistants, directors, and CEO.
+
 
 education
 
 General Asssembly, Seattle, Washington (2016)
-▪Completed a twelve week immersive course which included 70+ hours per week of coding experience/challenges and completed five projects using agile development methodologies.
+▪ Completed a twelve week immersive course which included 70+ hours per week of coding experience/challenges and completed five projects using agile development methodologies.
 
 
 University of St. Thomas, Saint Paul, Minnesota (2006)
