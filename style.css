@@ -18,10 +18,11 @@
 	border-color: inherit;
 }
 section#portfolio {
-	background-color: #FF9966;
+	background-color: #999999;
 }
 #portfolio {
-	color: #003366;
+	color: white;
+	text-shadow: 1px 1px 1px black;
 }
 .bluehr {
 	border-color: #003366;
