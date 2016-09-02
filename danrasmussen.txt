@@ -1,51 +1,50 @@
 dan.r.rasmussen@gmail.com                                                                                               	 		651.216.4339
 
 Daniel Robert Rasmussen
+Summary
+
+As a ten year business professional, I have switched gears and begun my transition into an entry-level programmer position. To meet this objective, I completed a twelve week immersive course that included 70+ hours per week of coding experience/challenges and completed five projects using agile development methodologies.
+
 Relevant Skills
 
-HTML
-CSS
-Javascript 
+LANGUAGES
 
-Node.js
-Ruby
-Rails
+Javascript, Ruby, SQL
 
-Who I am
+TOOLS
+Angular.js, Node.js, Express, Rails, PostgreSQL
+experience
 
-As a Web Developer with a background in business, I am committed to increasing efficiency and ease of use to both improve productivity and increase people's quality of life.  I'm a midwesterner at heart who's living in and loving Seattle. The weather's far better out here.
-work experience
-
-General Assembly, Seattle, Washington								May 2016 - Present
+General Assembly, Seattle, Washington									2016
 Web Development Immersive
-Finished five projects using multiple stacks while coding 70+ hours per week.
+Completed several projects using multiple stacks while coding 70+ hours per week
+Developed an app that utilized Yelp’s API to locate burger joints near you using Node and vanilla Javascript
+Acted as Git master in group setting while developing an app using Rails to connect fellow kayakers
+Finished group sprint that utilized multiple news APIs and Angular.js to list articles based on search queries
 
-Soundview Medical Supply, Seattle, Washington							March 2013 - Present
+Soundview Medical Supply, Seattle, Washington								2013 - 2016
 Customer Service Representative
+Maintained monthly customer contact via phone and email
+Ensured quality of monthly Medicaid orders while continually monitoring customer satisfaction
 
-Eddie Bauer, Inc., Seattle, Washington							     August 2011 – March 2013
+Eddie Bauer, Inc., Seattle, Washington							     		2011 – 2013
 Sales Associate/Special Projects
+Helped customers coordinate casual and climbing outfits, sold credit and rewards cards, and maintained store appearance as well as provided occasional stockroom assistance. 
+Sent daily CSAT comments to regional directors, compiled and sent out weekly website technical problems, and assisted with additional projects as assigned by Call Center Head
 
-Infinity Client Acquisitions, Inc., Saint Paul, Minnesota					    September 2010 - July 2011
+Infinity Client Acquisitions, Inc., Saint Paul, Minnesota					    		2010 - 2011
 Field Representative 
+▪ Sold DirecTv subscriptions to customers in Best Buy and Sam’s Club retailers
 
-State Farm Insurance, Shoreview, Minnesota 					         February 2010 - September 2010
-Business Development 
-
-Medstrom Surgical, Inc., Shoreview, Minnesota 					             October 2009 - February 2010
-Sales Representative 
-
-St. Paul Radiology, St. Paul, Minnesota 							       July 2006 - October 2009
+St. Paul Radiology, St. Paul, Minnesota 							       		2006 - 2009
 Data Analyst 
-
-
+▪ Compiled detailed daily, weekly, monthly, and annual CT, MRI, X-Ray, Ultrasound, Mammography, and Bone Densitometry reports for marketing assistants, directors, and CEO
 education
 
 General Asssembly, Seattle, Washington (2016)
-▪ Completed a twelve week immersive course which included 70+ hours per week of coding experience/challenges and completed five projects using agile development methodologies.
-
+Web Development Immersive
+▪Completed a twelve week immersive course which included 70+ hours per week of coding experience/challenges and completed five projects using agile development methodologies.
 
 University of St. Thomas, Saint Paul, Minnesota (2006)
 Bachelor of Arts (B.A.)
- 		▪ Business Administration major with Psychology minor
-▪ St. Thomas Academic Scholarship Recipient (2003 – 2004)
+▪ Business Administration major with Psychology minor
